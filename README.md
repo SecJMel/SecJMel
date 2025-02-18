@@ -22,10 +22,10 @@
   - [Part 3: Vulnerability Assessment](https://docs.google.com/document/d/13LjhZToJ6VBrvMnl5TjGbQDyFxPnbRf9LYvhwUMU2Rk/edit?tab=t.0#heading=h.ip0vwvbbks3i)
   
 <h2>Red Team Projects</h2>
--<b>Pentesting Word Press Website( In progress)</b>
-- Building Home SOC( In progress)
-  -RedTeam VM
-  -BlueTeam VM
+-[Pentesting Word Press Website( In progress)]
+- [Building Home SOC( In progress)]
+  - [RedTeam VM]
+  - [BlueTeam VM]
 
 <h2> 🤳 Connect with me:</h2>
 
