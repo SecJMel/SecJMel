@@ -22,12 +22,10 @@
   - [Part 3: Vulnerability Assessment](https://docs.google.com/document/d/13LjhZToJ6VBrvMnl5TjGbQDyFxPnbRf9LYvhwUMU2Rk/edit?tab=t.0#heading=h.ip0vwvbbks3i)
   
 <h2>Red Team Projects</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Pentesting Word Press Website( In progress)
+- Building Home SOC( In progress)
+  -RedTeam VM
+  -BlueTeam VM
 
 <h2> 🤳 Connect with me:</h2>
 
