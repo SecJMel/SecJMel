@@ -14,8 +14,8 @@
   - [Part 2: Threat Model Report](https://docs.google.com/document/d/1B_zWruHapvX1jJWv6zTjkdsXsDosI29xFbSn0QuXSik/edit?usp=share_link)
 - <b>Incident Response</b>
   - [IRP](https://docs.google.com/document/d/1ZXkACxS7COgpcCvBhlz4OZlZEeQpc7KlNMWCFJPOy6o/edit?usp=share_link)
-- <b>Incident Response</b>
-  - [IRP](https://docs.google.com/document/d/1ZXkACxS7COgpcCvBhlz4OZlZEeQpc7KlNMWCFJPOy6o/edit?usp=share_link)
+- <b>Network Hardening and Virtualization</b>
+  - [Network Modernization Proposal](https://docs.google.com/document/d/1ZXkACxS7COgpcCvBhlz4OZlZEeQpc7KlNMWCFJPOy6o/edit?usp=share_link)
 - <b>Incident Response</b>
   - [IRP](https://docs.google.com/document/d/1ZXkACxS7COgpcCvBhlz4OZlZEeQpc7KlNMWCFJPOy6o/edit?usp=share_link)
 - <b>Incident Response</b>
