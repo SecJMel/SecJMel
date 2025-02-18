@@ -6,12 +6,10 @@
   - [High Level Network Redesign](https://docs.google.com/presentation/d/1vabZPfF_7ha9UbUO3_-klMnhNEA7GnYoWEOQR6w6nck/edit?usp=share_link)
 - <b>Network Scannning and Enumeration</b>
   - [Tools, Scans, and Outputs](https://docs.google.com/spreadsheets/d/1lceZwPv-N2a8VlKOJLoArqq26d0hwSvY549t2jyxhFo/edit?usp=share_link) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Understanding Cybersec Frameworks</b>
+  - [Part 1: Process Notes](https://docs.google.com/spreadsheets/d/1OQhXIVFO1KvWVFcOGGntyQaLdxgIfhkCLyme29WvYts/edit?usp=share_link))
+  - [Part 2: Analysis Report](https://docs.google.com/document/d/1bw1X_62mPxkNnbSXhiJbM8C9GkPTBj9XTei1SrpJk_Y/edit?usp=share_link)
+- <b>Threat Modeling</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
