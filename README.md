@@ -31,7 +31,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[Linkedin]([https://www.linkedin.com/in/joshuamelay])
+[Linkedin](https://www.linkedin.com/in/joshuamelay)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
