@@ -19,10 +19,7 @@
 - <b>Vulnerability Assessment</b>
   - [Part 1: Nessus Scans](https://drive.google.com/file/d/1XeS2aoO96DdmyzgBM-PPqN-fpkTynBz8/view?usp=share_link)
   - [Part 2: Remediation List](https://docs.google.com/spreadsheets/d/1qCke9yd0fswpH5OPvsZIOEZrWEwkrsm1PuE1x4ogAqg/edit?gid=0#gid=0)
-  - [Part 3: Nessus Scans](https://drive.google.com/file/d/1XeS2aoO96DdmyzgBM-PPqN-fpkTynBz8/view?usp=share_link)
-  - [Part 1: Nessus Scans](https://drive.google.com/file/d/1XeS2aoO96DdmyzgBM-PPqN-fpkTynBz8/view?usp=share_link)
-- <b>Incident Response</b>
-  - [IRP](https://docs.google.com/document/d/1ZXkACxS7COgpcCvBhlz4OZlZEeQpc7KlNMWCFJPOy6o/edit?usp=share_link)
+  - [Part 3: Vulnerability Assessment](https://docs.google.com/document/d/13LjhZToJ6VBrvMnl5TjGbQDyFxPnbRf9LYvhwUMU2Rk/edit?tab=t.0#heading=h.ip0vwvbbks3i)
   
 <h2>Red Team Projects(Offsec)</h2>
 
