@@ -16,8 +16,8 @@
   - [IRP](https://docs.google.com/document/d/1ZXkACxS7COgpcCvBhlz4OZlZEeQpc7KlNMWCFJPOy6o/edit?usp=share_link)
 - <b>Network Hardening and Virtualization</b>
   - [Network Modernization Proposal](https://docs.google.com/document/d/1ZXkACxS7COgpcCvBhlz4OZlZEeQpc7KlNMWCFJPOy6o/edit?usp=share_link)
-- <b>Incident Response</b>
-  - [IRP](https://docs.google.com/document/d/1ZXkACxS7COgpcCvBhlz4OZlZEeQpc7KlNMWCFJPOy6o/edit?usp=share_link)
+- <b>Vulnerability Assessment</b>
+  - [Part 1: Nessus Scans](https://docs.google.com/document/d/1ZXkACxS7COgpcCvBhlz4OZlZEeQpc7KlNMWCFJPOy6o/edit?usp=share_link)
 - <b>Incident Response</b>
   - [IRP](https://docs.google.com/document/d/1ZXkACxS7COgpcCvBhlz4OZlZEeQpc7KlNMWCFJPOy6o/edit?usp=share_link)
   
